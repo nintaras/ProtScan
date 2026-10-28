@@ -1,0 +1,6 @@
+torch
+transformers
+biopython
+scikit-learn
+matplotlib
+numpy

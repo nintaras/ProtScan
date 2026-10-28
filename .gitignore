@@ -1,0 +1,20 @@
+# Python & Virtual Environments
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+*.pth
+
+# macOS & System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+
+# Hugging Face Cache
+.cache/
+hf_cache/
